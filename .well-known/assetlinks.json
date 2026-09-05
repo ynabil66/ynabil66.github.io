@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "app.ynabil.attendance",
+    "sha256_cert_fingerprints": [
+      "FA:CB:D4:5B:FD:CC:BD:79:9E:A4:64:82:CF:60:7F:2F:F9:7E:BF:02:AC:0E:86:1E:CD:AA:2A:2A:42:DB:7E:1E"
+    ]
+  }
+}]
